@@ -47,7 +47,7 @@ When a snapshot is triggered, alongside the point cloud file, a `.json` metadata
   "binary": true,
   "has_rgb": true
 }
-
+```
 
 ### Running the program
 
