@@ -18,7 +18,7 @@ To view and inspect the generated .ply files, I used CloudCompare, a free and op
 
 
 ### Metadata Format (.json)
-When a snapshot is triggered, alongside the point cloud file, a .json metadata file is generated. This file contains temporal, spatial, and configuration details about the captured frame.
+When a snapshot is triggered, alongside the point cloud file, a `.json` metadata file is generated. This file contains temporal, spatial, and configuration details about the captured frame.
 
 **Example of saved metadata:**
 
